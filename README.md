@@ -44,5 +44,5 @@
 To run the code, run 
 
 ```
-python blinkDetect.py
+python main.py
 ```
